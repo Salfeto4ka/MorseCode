@@ -1,0 +1,19 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\bin\Debug\MorseCode.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\obj\Debug\MorseCode.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\obj\Debug\MorseCode.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\obj\Debug\MorseCode.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\obj\Debug\MorseCode.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\obj\Debug\MorseCode.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MorseCode\MorseCode\obj\Debug\MorseCode.pdb
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\bin\Debug\MorseCode.exe.config
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\obj\Debug\MorseCode.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\obj\Debug\MorseCode.Properties.Resources.resources
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\obj\Debug\MorseCode.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\obj\Debug\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\obj\Debug\MorseCode.exe
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\obj\Debug\MorseCode.pdb
+C:\Users\Максим\source\repos\c#\MorseCode\MorseCode\obj\Debug\MorseCode.MorzeForm.resources
